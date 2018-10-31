@@ -1,5 +1,7 @@
 ## Docker
 
+### Criar repositorio Docker
+sudo docker-compose run web django-admin.py startproject automacao .
 ### Rodar Containes com Logs
  docker-compose up
 ### Rodar Conainers em background
